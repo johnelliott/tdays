@@ -1,0 +1,32 @@
+{
+  "name": "tdays",
+  "version": "1.0.0",
+  "description": "get days since trump was elected",
+  "main": "index.js",
+  "bin": {
+    "tdays": "index.js"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnelliott/tdays.git"
+  },
+  "keywords": [
+    "trump",
+    "election",
+    "politics",
+    "time",
+    "date"
+  ],
+  "author": "John Elliott <johnelliott703@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johnelliott/tdays/issues"
+  },
+  "homepage": "https://github.com/johnelliott/tdays#readme",
+  "devDependencies": {
+    "tape": "^4.6.2"
+  }
+}
