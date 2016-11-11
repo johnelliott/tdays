@@ -1,4 +1,7 @@
 # t-days
+![](https://img.shields.io/npm/v/tdays.svg)
+![](https://img.shields.io/npm/dt/tdays.svg)
+
 get days since Trump was elected
 ## about
 📆 get "Trump day x"
