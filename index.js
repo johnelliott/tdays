@@ -1,9 +1,9 @@
 #!/usr/bin/env node
 
 function tDays () {
-  var election = new Date(2016, 10, 8)
+  var inauguration = new Date(2017, 0, 20)
   var now = new Date()
-  return Math.floor((now - election) / (1000 * 60 * 60 * 24))
+  return Math.floor((now - inauguration) / (1000 * 60 * 60 * 24)) + 1
 }
 
 if (require.main === module) {
