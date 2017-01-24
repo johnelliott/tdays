@@ -1,6 +1,6 @@
 {
   "name": "tdays",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "get days since trump was elected",
   "main": "index.js",
   "bin": {
